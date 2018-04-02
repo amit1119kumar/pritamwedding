@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+.container {
+  height: 100%;
+}
+.footer-container {
+  height: 100px;
+  background-color: orange;
+}
+.header-container {
+  height: 100px;
+  background-color: moccasin;
+}
